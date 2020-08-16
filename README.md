@@ -9,6 +9,6 @@ Connect People Application:
   - Frontend consists in Javascript and HTML.
 
 
-(Sugestion) To run the app on your machine:
+(Suggestion) To run the app on your machine:
   - If you have tomcat, insert the command "mvn tomcat7:deploy" in the terminal in the project's directory.
   - Regarding the Frontend, we suggest creating a webserver from the "views" directory.

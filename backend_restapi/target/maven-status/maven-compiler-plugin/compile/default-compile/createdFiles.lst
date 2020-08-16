@@ -1,0 +1,9 @@
+org/caxineirosdegema/connectingpeople/services/UserService.class
+org/caxineirosdegema/connectingpeople/services/ApplicationService.class
+org/caxineirosdegema/connectingpeople/services/EventServiceIMPL.class
+org/caxineirosdegema/connectingpeople/services/ApplicationServiceIMPL.class
+org/caxineirosdegema/connectingpeople/model/User.class
+org/caxineirosdegema/connectingpeople/services/EventService.class
+org/caxineirosdegema/connectingpeople/services/UserServiceIMPL.class
+org/caxineirosdegema/connectingpeople/controller/rest/RestAPIController.class
+org/caxineirosdegema/connectingpeople/model/Event.class

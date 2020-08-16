@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" href="friends-style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <script src="friends-script.js"></script>
+</head>
+
+<body>
+
+<nav id="navbar" class="navbar navbar-expand-lg navbar-light bg-*" style="background-color: #3f236c;">
+    <a id ="loginho" class="navbar-brand" href="#"><img id="logo" src="resources/logo-nav-bar.png"></a>
+
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+
+        </ul>
+        <div class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+               aria-haspopup="true" aria-expanded="false">
+                Options
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a id="edit_profile" class="dropdown-item" href="#">Edit Profile</a>
+                <a class="dropdown-item" href="#">Friend's List</a>
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="#">Logout</a>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<div class="container">
+<div class="row">
+    <div class="col-md-6">
+
+      <form id="newFriend_form" action="#">
+        <div class="form-row">
+          <div class="form-group">
+            <h2>Add friend</h2>
+          </div>
+        </div>
+        <div class="form-row">
+          <div class="form-group">
+            <label for="inputText4">Email</label>
+            <input type="email" class="form-control" id="email" placeholder="Name">
+          </div>
+        </div>
+        <div class="form-row">
+            <button id="newFriend_btn" type="submit" class="btn btn-primary">Submit</button>
+          </div>
+      </form>
+      </div>
+</div>
+</div>
+
+<br>
+<br>
+
+<!-- <button id="friendList" class="btn btn-primary">Friends List</button> -->
+        
+
+
+<div class="container">
+    <div class="row" id="friends-container">
+
+    </div>
+
+</div>
+
+<!--<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="img-container">
+                <img class="rounded friend-background" src="resources/friendlist-background-2.png">
+                <div class="top-center">NAME</div>
+                <div class="second-center">Location:</div>
+                <div class="third-center">E-mail:</div>
+                <div class="fourth-center">Phone:</div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+        <div class="img-container">
+                <img class="rounded friend-background" src="resources/friendlist-background-2.png">
+                <div class="top-left">USER NAME</div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <img class="rounded friend-background" src="resources/friendlist-background-2.png">
+        </div>
+        <div class="col-md-4">
+            <img class="rounded friend-background" src="resources/friendlist-background-2.png">
+        </div>
+        <div class="col-md-4">
+            <img class="rounded friend-background" src="resources/friendlist-background-2.png">
+        </div>
+
+    </div>
+</div>-->
+</body>
+</html>

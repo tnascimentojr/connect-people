@@ -1,0 +1,52 @@
+#logo {
+    width: 100px;
+}
+
+.friend-background {
+    width: 350px;
+    height: 200px;
+    margin-top: 30px;
+}
+
+#navbar {
+    margin-bottom: 30px;
+}
+
+.img-container {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+#friendName {
+    font-size: 50px;
+}
+
+.top-center {
+    position: absolute;
+    top: 60px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.second-center {
+    position: absolute;
+    top: 130px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.third-center {
+    position: absolute;
+    top: 165px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.fourth-center {
+    position: absolute;
+    top: 200px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

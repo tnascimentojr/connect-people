@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="664406ac-9845-4f3f-9d6d-8ce043e36429" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/feed-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new-event.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/src/main/java/org/caxineirosdegema/connectingpeople/controller/rest/RestAPIController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/src/main/java/org/caxineirosdegema/connectingpeople/controller/rest/RestAPIController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/src/main/java/org/caxineirosdegema/connectingpeople/model/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/src/main/java/org/caxineirosdegema/connectingpeople/model/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/classes/org/caxineirosdegema/connectingpeople/controller/rest/RestAPIController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/classes/org/caxineirosdegema/connectingpeople/controller/rest/RestAPIController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/classes/org/caxineirosdegema/connectingpeople/model/Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/classes/org/caxineirosdegema/connectingpeople/model/Event.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/classes/org/caxineirosdegema/connectingpeople/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/classes/org/caxineirosdegema/connectingpeople/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/classes/org/caxineirosdegema/connectingpeople/services/ApplicationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/classes/org/caxineirosdegema/connectingpeople/services/ApplicationService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/classes/org/caxineirosdegema/connectingpeople/services/ApplicationServiceIMPL.class" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/classes/org/caxineirosdegema/connectingpeople/services/ApplicationServiceIMPL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/classes/org/caxineirosdegema/connectingpeople/services/EventService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/classes/org/caxineirosdegema/connectingpeople/services/EventService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/classes/org/caxineirosdegema/connectingpeople/services/EventServiceIMPL.class" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/classes/org/caxineirosdegema/connectingpeople/services/EventServiceIMPL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/classes/org/caxineirosdegema/connectingpeople/services/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/classes/org/caxineirosdegema/connectingpeople/services/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/classes/org/caxineirosdegema/connectingpeople/services/UserServiceIMPL.class" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/classes/org/caxineirosdegema/connectingpeople/services/UserServiceIMPL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/connecting_people.war" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/connecting_people.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/classes/org/caxineirosdegema/connectingpeople/controller/rest/RestAPIController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/classes/org/caxineirosdegema/connectingpeople/controller/rest/RestAPIController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/classes/org/caxineirosdegema/connectingpeople/model/Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/classes/org/caxineirosdegema/connectingpeople/model/Event.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/classes/org/caxineirosdegema/connectingpeople/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/classes/org/caxineirosdegema/connectingpeople/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/classes/org/caxineirosdegema/connectingpeople/services/ApplicationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/classes/org/caxineirosdegema/connectingpeople/services/ApplicationService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/classes/org/caxineirosdegema/connectingpeople/services/ApplicationServiceIMPL.class" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/classes/org/caxineirosdegema/connectingpeople/services/ApplicationServiceIMPL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/classes/org/caxineirosdegema/connectingpeople/services/EventService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/classes/org/caxineirosdegema/connectingpeople/services/EventService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/classes/org/caxineirosdegema/connectingpeople/services/EventServiceIMPL.class" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/classes/org/caxineirosdegema/connectingpeople/services/EventServiceIMPL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/classes/org/caxineirosdegema/connectingpeople/services/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/classes/org/caxineirosdegema/connectingpeople/services/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/classes/org/caxineirosdegema/connectingpeople/services/UserServiceIMPL.class" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/classes/org/caxineirosdegema/connectingpeople/services/UserServiceIMPL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/jackson-annotations-2.8.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/jackson-annotations-2.8.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/jackson-core-2.8.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/jackson-core-2.8.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/jackson-databind-2.8.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/jackson-databind-2.8.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/jaxb-api-2.3.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/jaxb-api-2.3.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/spring-aop-4.3.11.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/spring-aop-4.3.11.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/spring-beans-4.3.11.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/spring-beans-4.3.11.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/spring-context-4.3.11.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/spring-context-4.3.11.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/spring-core-4.3.11.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/spring-core-4.3.11.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/spring-expression-4.3.11.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/spring-expression-4.3.11.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/spring-jdbc-4.3.11.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/spring-jdbc-4.3.11.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/spring-orm-4.3.11.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/spring-orm-4.3.11.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/spring-tx-4.3.11.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/spring-tx-4.3.11.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/spring-web-4.3.11.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/spring-web-4.3.11.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/spring-webmvc-4.3.11.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/spring-webmvc-4.3.11.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/validation-api-2.0.0.Final.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/connecting_people/WEB-INF/lib/validation-api-2.0.0.Final.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connecting_people/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../connecting_people/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addEvent.html" beforeDir="false" afterPath="$PROJECT_DIR$/addEvent.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feedPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/feed-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feedPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/add-event.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/friends-script.js" beforeDir="false" afterPath="$PROJECT_DIR$/friends-script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/landingpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/landingpage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/landingpage.js" beforeDir="false" afterPath="$PROJECT_DIR$/landingpage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newEvent.html" beforeDir="false" afterPath="$PROJECT_DIR$/newEvent.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1596742332" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="view-friend-list" />
+                    <option name="lastUsedInstant" value="1596742244" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="friends-view" />
+                    <option name="lastUsedInstant" value="1596736420" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$/../.." />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fjf5OVgC7pYQIVIAr1JQJ302IJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="friends-script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/friends-script.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.friends-script.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="664406ac-9845-4f3f-9d6d-8ce043e36429" name="Default Changelist" comment="" />
+      <created>1596736239180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596736239180</updated>
+      <workItem from="1596736240293" duration="218000" />
+      <workItem from="1596736614662" duration="12913000" />
+      <workItem from="1596765011647" duration="5765000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1894" height="327" key="GridCell.Tab.0.bottom" timestamp="1596764880928">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1894" height="327" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1596764880928" />
+    <state width="1894" height="327" key="GridCell.Tab.0.center" timestamp="1596764880927">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1894" height="327" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1596764880927" />
+    <state width="1894" height="327" key="GridCell.Tab.0.left" timestamp="1596764880921">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1894" height="327" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1596764880921" />
+    <state width="1894" height="327" key="GridCell.Tab.0.right" timestamp="1596764880928">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1894" height="327" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1596764880928" />
+  </component>
+</project>
